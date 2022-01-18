@@ -1,0 +1,1 @@
+<?php echo "<footer class='mt-auto border-top'><div class='container'><h3 class='mt-3'>There is no footer yet</h3></div></footer>" ?>
